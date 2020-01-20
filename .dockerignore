@@ -1,0 +1,16 @@
+.git
+.gitignore
+.github
+.vale.ini
+.vscode
+README.md
+CHANGELOG.md
+Jenkinsfile
+Licences.txt
+Makefile
+VERSION
+LICENSE
+charts
+k8s
+node_modules
+docker-compose.yml
